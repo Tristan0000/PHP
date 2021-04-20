@@ -6,4 +6,3 @@ if ($_POST['dier'] === "hond") {
 } elseif ($_POST['dier'] === "aap") {
     echo "<img src='img/aap.jpg'>";
 }
-
